@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <title>
+    Activity 2
+    </title>
+        <head>
+          <h2>Activity 2</h2>
+            </head> 
+            <body>
+                <br><br>
+                <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/87BA/production/_105364743_41440931_2196574140417666_5390287486666670080_n.jpg" width = "400" height = "500">
+             <br>
+              <h1>
+                My email is:<a href= "mailto: fowlerj9@gmatc.matc.edu">fowlerj9@gmatc.matc.edu</a>
+              </h1>
+             <br><br>
+             <table id="friends" style="widows: 2px">
+                <thead>
+                <tr>
+                  <th scope = "Column">Adam</th>
+                  <th scope = "Column">Jovan</th> 
+                  <th scope = "Column">Chris</th>
+                </tr>
+                </thead>    
+                <tbody>
+                <tr>
+                  <td>Age: 21</td>
+                  <td rowspace = "2">Smells: like old spice</td>
+                  <td>Likes dogs</td>
+                </tr>
+                <tr>
+                  <td>Age: 21</td>
+                  <td>Smells like: gaming</td>
+                  <td>Likes anime</td>
+                </tr>
+                <tr>
+                  <td>Age: 21</td>
+                  <td>Smells like: Work</td>
+                  <td>Likes work</td>
+                </tr>
+                </tbody>    
+              </table>
+            </body>
+            <footer>
+                <br>
+                <h2>Index</h2><br>
+                <a href="https://github.com/MatcFowler/Activity-2/blob/master/index.html">Home</a>
+                <br>
+                <a href="https://github.com/MatcFowler/Activity-2/blob/master/Activity%202">Activity 2:this one actually</a>
+            </footer>
+</html>
 
