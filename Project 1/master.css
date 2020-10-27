@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-size : 30px;
+}
+
+table { 
+    border-spacing: 30px;
+    border-collapse: separate;
+    width: 100%;
+    
+}
+td{
+    padding: 6px;
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    text-shadow: beige;
+    
+}
